@@ -34,6 +34,18 @@ MiraUSD aims to provide a reliable, stable digital currency, minimizing volatili
 - **Holders:**  
   Over 10,300 unique wallets already hold MrUSDT.
 
+  ## Token Burn Event
+
+On July 19, 2025, a total of **199,000 MrUSDT tokens** were permanently burned and sent to the official burn address `0x000000000000000000000000000000000000dEaD` as a commitment to transparency, community trust, and supply control.
+
+- **Burned Amount:** 100,000 MrUSDT
+- **Burn Address:** 0x000000000000000000000000000000000000dEaD
+- **Transaction:** [View on BscScan](https://bscscan.com/tx/0xe2aad5e0aa1ff55a1f6706bfe7e98ce7241d0fe19c8931509e33374c7f7bade9)
+- **Updated Total Supply:** [Insert New Supply Here]
+
+This action strengthens the long-term value and scarcity of MrUSDT for all holders.
+
+
 ## 5. Features
 
 - Lightning-fast & low-fee transactions on BSC
