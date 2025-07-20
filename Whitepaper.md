@@ -1,93 +1,112 @@
-# MiraUSD (MrUSDT) — Whitepaper
+MiraUSD (MrUSDT) — Whitepaper
 
-## 1. Introduction
-
+1. Introduction
 MiraUSD (MrUSDT) is a decentralized, BEP-20 stablecoin built on Binance Smart Chain (BSC). The goal is to deliver a fast, low-fee, and transparent digital dollar for all DeFi and crypto users. MiraUSD is community-powered and independent of any centralized entity.
 
-## 2. Vision & Mission
-
+2. Vision & Mission
 MiraUSD aims to provide a reliable, stable digital currency, minimizing volatility and making it easy for anyone to send, receive, and store value. We believe financial stability and access should be universal, without barriers or restrictions.
 
-## 3. Token Overview
+3. Token Overview
 
-- **Token Name:** MiraUSD  
-- **Symbol:** MrUSDT  
-- **Network:** Binance Smart Chain (BSC)  
-- **Standard:** BEP-20  
-- **Decimals:** 18  
-- **Contract Address:** `0xED347F9431C26fA316656D3d5e6d914F5151661c`  
-- **Total Supply:** 1000,000  
-- **Official Website:** [https://mrusdt.online](https://mrusdt.online)
+Token Name: MiraUSD
 
-## 4. Tokenomics
+Symbol: MrUSDT
 
-- **Initial Distribution:**  
-  - Team & Development: 10%  
-  - Liquidity: 30%  
-  - Airdrop & Promotion: 10%  
-  - Community Rewards: 40%  
-  - Reserve: 10%
+Network: Binance Smart Chain (BSC)
 
-- **Token Lock:**  
-  Part of the team tokens are locked to ensure transparency and long-term trust.
+Standard: BEP-20
 
-- **Holders:**  
-  Over 10,300 unique wallets already hold MrUSDT.
+Decimals: 18
 
-  ## Token Burn Event
+Contract Address: 0xED347F9431C26fA316656D3d5e6d914F5151661c
 
-On July 19, 2025, a total of **199,000 MrUSDT tokens** were permanently burned and sent to the official burn address `0x000000000000000000000000000000000000dEaD` as a commitment to transparency, community trust, and supply control.
+Total Supply: 1,000,000
 
-- **Burned Amount:** 100,000 MrUSDT
-- **Burn Address:** 0x000000000000000000000000000000000000dEaD
-- **Transaction:** [View on BscScan](https://bscscan.com/tx/0xe2aad5e0aa1ff55a1f6706bfe7e98ce7241d0fe19c8931509e33374c7f7bade9)
-- **Updated Total Supply:** [Insert New Supply Here]
+Official Website: https://mrusdt.online
 
-This action strengthens the long-term value and scarcity of MrUSDT for all holders.
+4. Tokenomics
 
+Initial Distribution:
 
-## 5. Features
+Team & Development: 10%
 
-- Lightning-fast & low-fee transactions on BSC
-- Fully open-source and transparent
-- No centralized ownership; community-driven
-- Audited smart contract
-- Easy to add to wallets and DeFi platforms
+Liquidity: 30%
 
-## 6. Roadmap
+Airdrop & Promotion: 10%
 
-- **Q1 2025:**  
-  Project concept, smart contract development, initial community building
+Community Rewards: 40%
 
-- **Q2 2025:**  
-  Token launch on BSC, liquidity provision, first exchange listings
+Reserve: 10%
 
-- **Q3 2025:**  
-  Smart contract audit, community governance, DeFi partnerships
+Token Lock:
+Part of the team tokens are locked to ensure transparency and long-term trust.
 
-- **Q4 2025:**  
-  10,000+ holders, DeFi integrations, cross-chain bridge development
+Holders:
+Over 10,300 unique wallets already hold MrUSDT.
 
-## 7. Team & Contact
+Token Burn Event:
+On July 19, 2025, a total of 199,000 MrUSDT tokens were permanently burned and sent to the official burn address 0x000000000000000000000000000000000000dEaD.
 
-MiraUSD is an open-source, community-driven project.  
-- **Founder LinkedIn:** [Milad Aghaei](https://www.linkedin.com/in/milad-aghaie-b222b11b8/)  
-- **Telegram:** [@MIRAUSD](https://t.me/MIRAUSD)  
-- **Email:** admin@mrusdt.online  
+Burned Amount: 100,000 MrUSDT
 
-## 8. Disclaimer & Risks
+Burn Address: 0x000000000000000000000000000000000000dEaD
 
-MiraUSD is not affiliated with Tether or any official USDT project.  
-Crypto assets carry risk; invest only what you can afford to lose.  
+Transaction: View on BscScan
+
+Updated Total Supply: [900,000]
+
+5. Features
+
+Lightning-fast & low-fee transactions on BSC
+
+Fully open-source and transparent
+
+No centralized ownership; community-driven
+
+Audited smart contract
+
+Easy to add to wallets and DeFi platforms
+
+6. Roadmap
+
+Q1 2025: Project concept, smart contract development, initial community building
+
+Q2 2025: Token launch on BSC, liquidity provision, first exchange listings
+
+Q3 2025: Smart contract audit, community governance, DeFi partnerships
+
+Q4 2025: 10,000+ holders, DeFi integrations, cross-chain bridge development
+
+7. Team & Contact
+MiraUSD is an open-source, community-driven project.
+
+Founder LinkedIn: Milad Aghaei
+
+Telegram: @MIRAUSD
+
+Email: admin@mrusdt.online
+
+Twitter: @Mrusdt_mirausd
+
+Facebook: Mira usd
+
+Instagram: @mira_usd
+
+8. Disclaimer & Risks
+
+MiraUSD is not affiliated with Tether or any official USDT project.
+
+Crypto assets carry risk; invest only what you can afford to lose.
+
 All code is open-source and publicly reviewable.
 
-## 9. Resources & Links
+9. Resources & Links
 
-- **Official Website:** [https://mrusdt.online](https://mrusdt.online)  
-- **Telegram:** [@MIRAUSD](https://t.me/MIRAUSD)  
-- **LinkedIn:** [Milad Aghaei](https://www.linkedin.com/in/milad-aghaie-b222b11b8/)  
-- **BscScan Contract:** [View on BscScan](https://bscscan.com/token/0xED347F9431C26fA316656D3d5e6d914F5151661c)
+Official Website: https://mrusdt.online
 
----
+Telegram: @MIRAUSD
 
-*For any questions or collaborations, reach out via email, Telegram, or LinkedIn. MiraUSD is committed to transparency, security, and community empowerment.*
+GitHub: https://github.com/Mira6115/mirausdt-token
+
+BscScan Contract: https://bscscan.com/token/0xED347F9431C26fA316656D3d5e6d914F5151661c
+
