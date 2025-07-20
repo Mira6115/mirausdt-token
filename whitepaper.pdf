@@ -82,6 +82,8 @@ MiraUSD is an open-source, community-driven project.
 
 Founder LinkedIn: Milad Aghaei
 
+Medium: https://medium.com/@admin_35700
+
 Telegram: @MIRAUSD
 
 Email: admin@mrusdt.online
@@ -89,6 +91,8 @@ Email: admin@mrusdt.online
 Twitter: @Mrusdt_mirausd
 
 Facebook: Mira usd
+
+Reddit: https://www.reddit.com/user/mrusdt/?share_id=82l9TVYVnpD02-65knIxF&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1/
 
 Instagram: @mira_usd
 
