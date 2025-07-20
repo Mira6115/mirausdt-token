@@ -82,7 +82,7 @@ MiraUSD is an open-source, community-driven project.
 
 Founder LinkedIn: Milad Aghaei
 
-Medium: https://medium.com/@admin_35700
+Medium: [https://medium.com/@admin_35700](https://medium.com/@admin_35700/mirausd-mrusdt-41aaefbd7897)
 
 Telegram: @MIRAUSD
 
