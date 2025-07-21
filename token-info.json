@@ -3,22 +3,38 @@
   "symbol": "MrUSDt",
   "type": "BEP20",
   "decimals": 18,
-  "description": "Mira USD is a decentralized stable asset...",
+  "description": "Mira USD is a decentralized stable digital asset built on BSC, designed for secure, transparent and low-fee DeFi payments.",
   "website": "https://mrusdt.online",
   "explorer": "https://bscscan.com/token/0xD2347f9431C26Af3166503d5e9d154f15156161c",
   "status": "active",
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/Mrusdt"
+      "url": "https://twitter.com/Mrusdt_mirausd"
     },
     {
       "name": "github",
-      "url": "https://github.com/Mira6115/mirusdt-token"
+      "url": "https://github.com/Mira6115/mirausdt-token"
     },
     {
       "name": "whitepaper",
-      "url": "https://github.com/Mira6115/mirusdt-token/blob/main/whitepaper.pdf"
+      "url": "https://github.com/Mira6115/mirausdt-token/raw/main/whitepaper.pdf"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/mirausd-mrusdt/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://telegram.me/mirausd"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@admin_35700/mirausd-mrusdt-41aaefbd7897"
+    },
+    {
+      "name": "reddit",
+      "url": "https://www.reddit.com/user/mrusdt/"
     }
   ]
 }
