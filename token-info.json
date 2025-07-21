@@ -1,27 +1,24 @@
-
 {
-  "timestamp": "2025-03-17T12:00:00Z",
-  "name": "MiraUSD",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
-  "tokens": [
+  "name": "Mira USD",
+  "symbol": "MrUSDt",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Mira USD is a decentralized stable asset...",
+  "website": "https://mrusdt.online",
+  "explorer": "https://bscscan.com/token/0xD2347f9431C26Af3166503d5e9d154f15156161c",
+  "status": "active",
+  "links": [
     {
-      "name": "Mira USD",
-      "symbol": "MrUSDT",
-      "address": "0xED347F9431C26fA316656D3d5e6d914F5151661c",
-      "chainId": 56,
-      "decimals": 18,
-      "github": "https://github.com/Mira6115/mirausdt-token",
-      "logoURI": ""logoURI": "https://gateway.pinata.cloud/ipfs/bafybeibkqzuexmpzrzgldlujoer3kz6w7twtzia3ss5g3dhahz3qgeje3u"
-",
-      "tags": [
-        "stablecoin",
-        "payment"
-      ]
+      "name": "twitter",
+      "url": "https://twitter.com/Mrusdt"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Mira6115/mirusdt-token"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://github.com/Mira6115/mirusdt-token/blob/main/whitepaper.pdf"
     }
   ]
 }
-Explain
